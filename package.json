@@ -1,6 +1,6 @@
 {
   "name": "rename-compress",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "用来对文件进行重命名，可配置是否压缩",
   "main": "./lib/compress.js",
   "keywords": [
