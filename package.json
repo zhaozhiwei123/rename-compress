@@ -1,0 +1,16 @@
+{
+  "name": "rename-compress",
+  "version": "1.0.3",
+  "description": "用来对文件进行重命名，可配置是否压缩",
+  "main": "./lib/compress.js",
+  "author": "zhaozhiwei",
+  "email": "zhaozhiwei3225@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "rename-compress": "^1.0.2"
+  },
+  "files": [
+    "lib"
+  ]
+}
